@@ -1,0 +1,49 @@
+C:\Users\Lenovo\source\repos\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\Lenovo\source\repos\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\Lenovo\source\repos\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\Lenovo\source\repos\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\Lenovo\source\repos\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\Lenovo\source\repos\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\Lenovo\source\repos\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\Lenovo\source\repos\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\BusinessLayer\bin\Debug\net6.0\RepositoryLayer.dll
+C:\Users\Lenovo\source\repos\BusinessLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\Lenovo\source\repos\BusinessLayer\obj\Debug\net6.0\Business.EA331CBA.Up2Date
+C:\Users\Vatsal Jain\source\repos\HelloApp2\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\Vatsal Jain\source\repos\HelloApp2\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\Vatsal Jain\source\repos\HelloApp2\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\Vatsal Jain\source\repos\HelloApp2\BusinessLayer\bin\Debug\net6.0\RepositoryLayer.dll
+C:\Users\Vatsal Jain\source\repos\HelloApp2\BusinessLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\Vatsal Jain\source\repos\HelloApp2\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Vatsal Jain\source\repos\HelloApp2\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vatsal Jain\source\repos\HelloApp2\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Vatsal Jain\source\repos\HelloApp2\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Vatsal Jain\source\repos\HelloApp2\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Vatsal Jain\source\repos\HelloApp2\BusinessLayer\obj\Debug\net6.0\Business.EA331CBA.Up2Date
+C:\Users\Vatsal Jain\source\repos\HelloApp2\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\Vatsal Jain\source\repos\HelloApp2\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\Vatsal Jain\source\repos\HelloApp2\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\Vatsal Jain\source\repos\HelloApp2\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\Vatsal Jain\source\repos\HelloApp2\BusinessLayer\bin\Debug\net6.0\ModelLayer.dll
+C:\Users\Vatsal Jain\source\repos\HelloApp2\BusinessLayer\bin\Debug\net6.0\ModelLayer.pdb
+C:\Users\Prashant\Desktop\DOC-20250228-WA0001\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\Prashant\Desktop\DOC-20250228-WA0001\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\Prashant\Desktop\DOC-20250228-WA0001\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\Prashant\Desktop\DOC-20250228-WA0001\BusinessLayer\bin\Debug\net6.0\ModelLayer.dll
+C:\Users\Prashant\Desktop\DOC-20250228-WA0001\BusinessLayer\bin\Debug\net6.0\RepositoryLayer.dll
+C:\Users\Prashant\Desktop\DOC-20250228-WA0001\BusinessLayer\bin\Debug\net6.0\ModelLayer.pdb
+C:\Users\Prashant\Desktop\DOC-20250228-WA0001\BusinessLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\Prashant\Desktop\DOC-20250228-WA0001\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Prashant\Desktop\DOC-20250228-WA0001\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashant\Desktop\DOC-20250228-WA0001\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Prashant\Desktop\DOC-20250228-WA0001\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Prashant\Desktop\DOC-20250228-WA0001\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Prashant\Desktop\DOC-20250228-WA0001\BusinessLayer\obj\Debug\net6.0\Business.EA331CBA.Up2Date
+C:\Users\Prashant\Desktop\DOC-20250228-WA0001\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\Prashant\Desktop\DOC-20250228-WA0001\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\Prashant\Desktop\DOC-20250228-WA0001\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\Prashant\Desktop\DOC-20250228-WA0001\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
