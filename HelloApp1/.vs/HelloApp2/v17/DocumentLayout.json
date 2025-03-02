@@ -3,24 +3,37 @@
   "WorkspaceRootPath": "C:\\Users\\Prashant\\Desktop\\DOC-20250228-WA0001\\HelloApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1B32CF7-125A-49AA-A657-5A9D7F16E9B0}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\prashant\\desktop\\doc-20250228-wa0001\\businesslayer\\service\\registerhellobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{529C1190-9EC4-40A7-B356-508C49E17D43}|HelloApp1.csproj|c:\\users\\prashant\\desktop\\doc-20250228-wa0001\\helloapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529C1190-9EC4-40A7-B356-508C49E17D43}|HelloApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{529C1190-9EC4-40A7-B356-508C49E17D43}|HelloApp1.csproj|c:\\users\\prashant\\desktop\\doc-20250228-wa0001\\helloapp1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{529C1190-9EC4-40A7-B356-508C49E17D43}|HelloApp1.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Prashant\\Desktop\\DOC-20250228-WA0001\\RepositoryLayer\\Migrations\\20250302045154_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529C1190-9EC4-40A7-B356-508C49E17D43}|HelloApp1.csproj|c:\\users\\prashant\\desktop\\doc-20250228-wa0001\\helloapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{529C1190-9EC4-40A7-B356-508C49E17D43}|HelloApp1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAE907F-3A2F-460C-B717-D072819BC84E}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\prashant\\desktop\\doc-20250228-wa0001\\repositorylayer\\userauthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F21493-AC9B-4F8D-B89D-6A3B310D0FF8}|..\\ModelLayer\\ModelLayer.csproj|c:\\users\\prashant\\desktop\\doc-20250228-wa0001\\modellayer\\dto\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{529C1190-9EC4-40A7-B356-508C49E17D43}|HelloApp1.csproj|c:\\users\\prashant\\desktop\\doc-20250228-wa0001\\helloapp1\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{529C1190-9EC4-40A7-B356-508C49E17D43}|HelloApp1.csproj|solutionrelative:controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E1B32CF7-125A-49AA-A657-5A9D7F16E9B0}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\prashant\\desktop\\doc-20250228-wa0001\\businesslayer\\service\\registerhellobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DCAE907F-3A2F-460C-B717-D072819BC84E}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\prashant\\desktop\\doc-20250228-wa0001\\repositorylayer\\service\\registerhellorl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64F21493-AC9B-4F8D-B89D-6A3B310D0FF8}|..\\ModelLayer\\ModelLayer.csproj|c:\\users\\prashant\\desktop\\doc-20250228-wa0001\\modellayer\\dto\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64F21493-AC9B-4F8D-B89D-6A3B310D0FF8}|..\\ModelLayer\\ModelLayer.csproj|c:\\users\\prashant\\desktop\\doc-20250228-wa0001\\modellayer\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64F21493-AC9B-4F8D-B89D-6A3B310D0FF8}|..\\ModelLayer\\ModelLayer.csproj|c:\\users\\prashant\\desktop\\doc-20250228-wa0001\\modellayer\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64F21493-AC9B-4F8D-B89D-6A3B310D0FF8}|..\\ModelLayer\\ModelLayer.csproj|c:\\users\\prashant\\desktop\\doc-20250228-wa0001\\modellayer\\dto\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,75 +48,132 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Prashant\\Desktop\\DOC-20250228-WA0001\\HelloApp1\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Prashant\\Desktop\\DOC-20250228-WA0001\\HelloApp1\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-28T16:50:56.142Z",
+              "Title": "20250302045154_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Prashant\\Desktop\\DOC-20250228-WA0001\\RepositoryLayer\\Migrations\\20250302045154_Initial.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Migrations\\20250302045154_Initial.cs",
+              "ToolTip": "C:\\Users\\Prashant\\Desktop\\DOC-20250228-WA0001\\RepositoryLayer\\Migrations\\20250302045154_Initial.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Migrations\\20250302045154_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T04:51:54.963Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Prashant\\Desktop\\DOC-20250228-WA0001\\HelloApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Prashant\\Desktop\\DOC-20250228-WA0001\\HelloApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T04:46:52.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Prashant\\Desktop\\DOC-20250228-WA0001\\ModelLayer\\DTO\\User.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayer\\DTO\\User.cs",
+              "ToolTip": "C:\\Users\\Prashant\\Desktop\\DOC-20250228-WA0001\\ModelLayer\\DTO\\User.cs",
+              "RelativeToolTip": "..\\ModelLayer\\DTO\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T04:10:29.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserAuthDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Prashant\\Desktop\\DOC-20250228-WA0001\\RepositoryLayer\\UserAuthDbContext.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\UserAuthDbContext.cs",
+              "ToolTip": "C:\\Users\\Prashant\\Desktop\\DOC-20250228-WA0001\\RepositoryLayer\\UserAuthDbContext.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\UserAuthDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T04:09:03.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Prashant\\Desktop\\DOC-20250228-WA0001\\HelloApp1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Prashant\\Desktop\\DOC-20250228-WA0001\\HelloApp1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-02T03:41:05.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "RegisterHelloBL.cs",
               "DocumentMoniker": "C:\\Users\\Prashant\\Desktop\\DOC-20250228-WA0001\\BusinessLayer\\Service\\RegisterHelloBL.cs",
               "RelativeDocumentMoniker": "..\\BusinessLayer\\Service\\RegisterHelloBL.cs",
               "ToolTip": "C:\\Users\\Prashant\\Desktop\\DOC-20250228-WA0001\\BusinessLayer\\Service\\RegisterHelloBL.cs",
               "RelativeToolTip": "..\\BusinessLayer\\Service\\RegisterHelloBL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T16:47:52.029Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "HelloController.cs",
               "DocumentMoniker": "C:\\Users\\Prashant\\Desktop\\DOC-20250228-WA0001\\HelloApp1\\Controllers\\HelloController.cs",
               "RelativeDocumentMoniker": "Controllers\\HelloController.cs",
               "ToolTip": "C:\\Users\\Prashant\\Desktop\\DOC-20250228-WA0001\\HelloApp1\\Controllers\\HelloController.cs",
               "RelativeToolTip": "Controllers\\HelloController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T08:48:52.814Z"
+              "WhenOpened": "2025-02-28T08:48:52.814Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "RegisterHelloRL.cs",
               "DocumentMoniker": "C:\\Users\\Prashant\\Desktop\\DOC-20250228-WA0001\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
               "RelativeDocumentMoniker": "..\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
               "ToolTip": "C:\\Users\\Prashant\\Desktop\\DOC-20250228-WA0001\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
               "RelativeToolTip": "..\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T08:48:13.328Z"
+              "WhenOpened": "2025-02-28T08:48:13.328Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "ResponseModel.cs",
               "DocumentMoniker": "C:\\Users\\Prashant\\Desktop\\DOC-20250228-WA0001\\ModelLayer\\DTO\\ResponseModel.cs",
               "RelativeDocumentMoniker": "..\\ModelLayer\\DTO\\ResponseModel.cs",
               "ToolTip": "C:\\Users\\Prashant\\Desktop\\DOC-20250228-WA0001\\ModelLayer\\DTO\\ResponseModel.cs",
               "RelativeToolTip": "..\\ModelLayer\\DTO\\ResponseModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T08:47:59.792Z"
+              "WhenOpened": "2025-02-28T08:47:59.792Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "LoginDTO.cs",
               "DocumentMoniker": "C:\\Users\\Prashant\\Desktop\\DOC-20250228-WA0001\\ModelLayer\\DTO\\LoginDTO.cs",
               "RelativeDocumentMoniker": "..\\ModelLayer\\DTO\\LoginDTO.cs",
               "ToolTip": "C:\\Users\\Prashant\\Desktop\\DOC-20250228-WA0001\\ModelLayer\\DTO\\LoginDTO.cs",
               "RelativeToolTip": "..\\ModelLayer\\DTO\\LoginDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T08:47:55.936Z"
+              "WhenOpened": "2025-02-28T08:47:55.936Z",
+              "EditorCaption": ""
             }
           ]
         }

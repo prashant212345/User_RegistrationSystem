@@ -1,6 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
 using BusinessLayer.Service;
 using ModelLayer.DTO;
+using System;
+using System.Threading.Tasks;
+using NLog;
 
 namespace HelloApp.Controllers
 {
@@ -9,6 +12,7 @@ namespace HelloApp.Controllers
     public class HelloAppController : ControllerBase
     {
         private readonly RegisterHelloBL _registerHelloBL;
+        private static readonly Logger Logger = LogManager.GetCurrentClassLogger();
 
         public HelloAppController(RegisterHelloBL registerHelloBL)
         {
@@ -16,56 +20,38 @@ namespace HelloApp.Controllers
         }
 
         [HttpPost("register")]
-        public IActionResult RegisterUser([FromBody] LoginDTO newUser)
+        public async Task<IActionResult> RegisterUser([FromBody] User newUser)
         {
-            var response = new ResponseModel<string>();
-
             try
             {
-                string result = _registerHelloBL.Registration(newUser);
-                response.Success = true;
-                response.Message = result;
-
-                return Ok(response);
+                var result = await _registerHelloBL.Registration(newUser);
+                return Ok(new ResponseModel<string> { Success = true, Message = result });
             }
             catch (Exception ex)
             {
-                response.Success = false;
-                response.Message = "Registration failed";
-                response.Data = ex.Message;
-
-                return BadRequest(response);
+                Logger.Error(ex, "Error in RegisterUser");
+                return StatusCode(500, new ResponseModel<string> { Success = false, Message = "Internal Server Error" });
             }
         }
 
         [HttpPost("login")]
-        public IActionResult LoginUser([FromBody] LoginDTO loginDTO)
+        public async Task<IActionResult> LoginUser([FromBody] User loginUser)
         {
-            var response = new ResponseModel<string>();
-
             try
             {
-                bool isAuthenticated = _registerHelloBL.LoginUser(loginDTO);
+                bool isAuthenticated = await _registerHelloBL.LoginUser(loginUser.Username, loginUser.PasswordHash);
 
                 if (isAuthenticated)
                 {
-                    response.Success = true;
-                    response.Message = "Login Successful";
-                    response.Data = loginDTO.Username;
-                    return Ok(response);
+                    return Ok(new ResponseModel<string> { Success = true, Message = "Login Successful", Data = loginUser.Username });
                 }
 
-                response.Success = false;
-                response.Message = "Invalid Credentials";
-                return Unauthorized(response);
+                return Unauthorized(new ResponseModel<string> { Success = false, Message = "Invalid Credentials" });
             }
             catch (Exception ex)
             {
-                response.Success = false;
-                response.Message = "Login failed";
-                response.Data = ex.Message;
-
-                return BadRequest(response);
+                Logger.Error(ex, "Error in LoginUser");
+                return StatusCode(500, new ResponseModel<string> { Success = false, Message = "Internal Server Error" });
             }
         }
     }

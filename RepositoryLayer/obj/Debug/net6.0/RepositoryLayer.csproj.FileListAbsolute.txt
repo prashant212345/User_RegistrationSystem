@@ -35,3 +35,6 @@ C:\Users\Prashant\Desktop\DOC-20250228-WA0001\RepositoryLayer\obj\Debug\net6.0\R
 C:\Users\Prashant\Desktop\DOC-20250228-WA0001\RepositoryLayer\obj\Debug\net6.0\refint\RepositoryLayer.dll
 C:\Users\Prashant\Desktop\DOC-20250228-WA0001\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
 C:\Users\Prashant\Desktop\DOC-20250228-WA0001\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll
+C:\Users\Prashant\Desktop\DOC-20250228-WA0001\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.runtimeconfig.json
+C:\Users\Prashant\Desktop\DOC-20250228-WA0001\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.sourcelink.json
+C:\Users\Prashant\Desktop\DOC-20250228-WA0001\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.genruntimeconfig.cache

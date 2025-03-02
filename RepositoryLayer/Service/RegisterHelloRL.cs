@@ -1,41 +1,54 @@
-﻿using System.Collections.Generic;
-using System.Linq;
+﻿using Microsoft.EntityFrameworkCore;
 using ModelLayer.DTO;
+using NLog;
+using System;
+using System.Threading.Tasks;
 
 namespace RepositoryLayer.Service
 {
     public class RegisterHelloRL
     {
-        // Use a static Dictionary for persistent storage
-        private static readonly Dictionary<string, UserCredentials> _users = new();
+        private readonly UserAuthDbContext _context;
+        private static readonly Logger Logger = LogManager.GetCurrentClassLogger();
 
-        public string GetHello(string name)
+        public RegisterHelloRL(UserAuthDbContext context)
         {
-            return name + " Hello from Repository Layer ";
+            _context = context;
         }
 
-        public bool RegisterUser(LoginDTO newUser)
+        public async Task<bool> RegisterUser(User user)
         {
-            if (_users.ContainsKey(newUser.Username))
+            try
             {
-                return false; // Username already exists
-            }
-
-            _users[newUser.Username] = newUser.Credentials; // Store username and password securely
-            return true;
-        }
-
-        public LoginDTO GetUserByUsername(string username)
-        {
-            if (_users.TryGetValue(username, out UserCredentials credentials))
-            {
-                return new LoginDTO
+                if (await _context.Users.AnyAsync(u => u.Username == user.Username))
                 {
-                    Username = username,
-                    Credentials = credentials
-                };
+                    Logger.Warn($"Registration failed: Username {user.Username} already exists.");
+                    return false;
+                }
+
+                _context.Users.Add(user);
+                await _context.SaveChangesAsync();
+                Logger.Info($"User {user.Username} registered successfully.");
+                return true;
             }
-            return null; // User not found
+            catch (Exception ex)
+            {
+                Logger.Error(ex, "Error in RegisterUser");
+                throw;
+            }
+        }
+
+        public async Task<User> GetUserByUsername(string username)
+        {
+            try
+            {
+                return await _context.Users.FirstOrDefaultAsync(u => u.Username == username);
+            }
+            catch (Exception ex)
+            {
+                Logger.Error(ex, "Error in GetUserByUsername");
+                throw;
+            }
         }
     }
 }
